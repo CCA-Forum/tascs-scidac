@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/documents/RSS">
+  <title>Documents and Resources</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+       Key TASCS documents and resources
+       
+  </description>
+  
+  
+  
+            <syn:updatePeriod>hourly</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2007-10-25T17:40:17Z</syn:updateBase>
+        
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/ctwatch-article"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/tutorials"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/tascs-roundtable-2008-10"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/tascs-detailed-2008-10"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/tascs-proposal.pdf"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents/mgmt-plan.pdf"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/documents/ctwatch-article">        <title>Enabling Advanced Scientific Computing Software</title>        <link>http://tascs-scidac.org/documents/ctwatch-article</link>        <description>A short overview of TASCS in the CTWatch Quarterly November 2007 special issue on Software Enabling Technologies for Petascale Science.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Link</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents/tutorials">        <title>CCA Tutorials</title>        <link>http://tascs-scidac.org/documents/tutorials</link>        <description>Lecture and hands-on tutorial materials for the Common Component Architecture.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Link</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents/tascs-roundtable-2008-10">        <title>Short TASCS presentation, October 2008</title>        <link>http://tascs-scidac.org/documents/tascs-roundtable-2008-10</link>        <description>A short (14 slide) presentation for DOE program managers, focusing primarily on application-related activities.  Presented 23-24 October 2008.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bek</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-01-20T13:45:43Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents/tascs-detailed-2008-10">        <title>Longer TASCS presentation, October 2008</title>        <link>http://tascs-scidac.org/documents/tascs-detailed-2008-10</link>        <description>A more detailed (33 slide) presentation for DOE program managers, complementing the short presentation and providing more detail about our research activities. Presented 23-24 October 2008.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>bek</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-01-20T13:48:05Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents/tascs-proposal.pdf">        <title>TASCS Proposal</title>        <link>http://tascs-scidac.org/documents/tascs-proposal.pdf</link>        <description>Original technical proposal, as submitted to DOE in March 2006, with the revised scope of work based on the actual award budget.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-01-10T19:21:36Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents/mgmt-plan.pdf">        <title>TASCS Project Management Plan</title>        <link>http://tascs-scidac.org/documents/mgmt-plan.pdf</link>        <description>Project Management Plan, Version 0.91, 5 December 2006</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-01-10T19:21:36Z</dc:date>        <dc:type>File</dc:type>    </item>
+
+
+
+
+</rdf:RDF>

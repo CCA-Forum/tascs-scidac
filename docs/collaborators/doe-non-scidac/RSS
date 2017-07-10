@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/collaborators/doe-non-scidac/RSS">
+  <title>DOE (non-SciDAC) Collaborators</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+       
+       
+  </description>
+  
+  
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2007-10-25T17:40:17Z</syn:updateBase>
+        
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/ccasynergia"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cifts"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/co-op"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/distcomp"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/nwchem"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/rose"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/sparskitcca"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/tau"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/collaborators/ccasynergia">        <title>CCA Synergia</title>        <link>http://tascs-scidac.org/collaborators/ccasynergia</link>        <description>The primary goal of this collaboration is to foster the beginning of a component community in computational accelerator physics, including creating initial collective effects-based components for an accelerator physics component toolkit. 
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:27Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cifts">        <title>CIFTS: Coordinated Infrastructure for Fault Tolerant Systems</title>        <link>http://tascs-scidac.org/collaborators/cifts</link>        <description>Providing the connections to allow the development of component-based applications capable of taking an active role in responding to faults in HPC systems.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-10-21T12:36:20Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/co-op">        <title>Co-Op: Cooperative Programming</title>        <link>http://tascs-scidac.org/collaborators/co-op</link>        <description>Provide distributed computing infrastructure for MPMD framework.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/distcomp">        <title>DistComp: Distributed CCA Components and Grid Services for Scientific Computing</title>        <link>http://tascs-scidac.org/collaborators/distcomp</link>        <description>This collaboration effort aims to provide support for advanced language constructs in component-based HPC application environments.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/nwchem">        <title>NWChem</title>        <link>http://tascs-scidac.org/collaborators/nwchem</link>        <description>Multi-level parallelism in NWChem to achieve petaflop-level scalability
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/rose">        <title>ROSE</title>        <link>http://tascs-scidac.org/collaborators/rose</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/sparskitcca">        <title>SPARSKIT-CCA</title>        <link>http://tascs-scidac.org/collaborators/sparskitcca</link>        <description>SPARSKIT-CCA is a suite of CCA components for the iterative solution of sparse linear systems. Major components implement various preconditioners and accelerators available in the original SPARSKIT and its modern extension, ITSOL. The list of preconditioners may be easily extended due to the standard interfaces developed for SPARSKIT-CCA. 
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:27Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/tau">        <title>TAU</title>        <link>http://tascs-scidac.org/collaborators/tau</link>        <description>The collaboration between the TAU group at University of Oregon and the TASCS center has the goal of developing performance monitoring and analysis components, with  emphasis on dynamic configuration and adaptation of computational components during the execution of a scientific application.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:27Z</dc:date>        <dc:type>Page</dc:type>    </item>
+
+
+
+
+</rdf:RDF>

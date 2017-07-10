@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/RSS">
+  <title>TASCS</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+       Center for Technology for Advanced Scientific Component Software, Sponsored by the US Dept. of Energy, Office of Science.
+       
+  </description>
+  
+  
+  
+            <syn:updatePeriod>hourly</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2007-10-25T17:00:00Z</syn:updateBase>
+        
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/front-page"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/research"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/technologies"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/team"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/documents"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/sponsor"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/software"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/contacts"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/related"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/front-page">        <title>TASCS: The Center for Technology for Advanced Scientific Component Software</title>        <link>http://tascs-scidac.org/front-page</link>        <description>TASCS is part of a long-term effort with the far-reaching goal of fundamentally changing the way scientific software is developed and used by bringing component-based software development technologies to high-performance scientific and engineering computing.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-12-30T17:51:50Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/research">        <title>Research</title>        <link>http://tascs-scidac.org/research</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:25Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/technologies">        <title>Technologies &amp; Capabilities</title>        <link>http://tascs-scidac.org/technologies</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:25Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/team">        <title>Team</title>        <link>http://tascs-scidac.org/team</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators">        <title>Collaborators</title>        <link>http://tascs-scidac.org/collaborators</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:27Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/documents">        <title>Documents and Resources</title>        <link>http://tascs-scidac.org/documents</link>        <description>Key TASCS documents and resources</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/sponsor">        <title>Sponsor</title>        <link>http://tascs-scidac.org/sponsor</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/software">        <title>Software</title>        <link>http://tascs-scidac.org/software</link>        <description>Pointers to TASCS software distributions</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/contacts">        <title>Contact Us</title>        <link>http://tascs-scidac.org/contacts</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/related">        <title>Related Projects</title>        <link>http://tascs-scidac.org/related</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                <dc:date>2008-06-01T21:08:28Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+
+
+
+
+</rdf:RDF>

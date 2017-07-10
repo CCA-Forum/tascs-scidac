@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/search_rss">
+  <title>TASCS</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/esg-cet"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cifts"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/swim"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/apdec"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cfrfs"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cism"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/distcomp"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/facets"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/gwaccamole"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/peri"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/rose"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cca-forum"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/co-op"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cscads"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/chapel"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/collaborators/esg-cet">        <title>ESG-CET: Earth System Grid Center for Enabling Technologies</title>        <link>http://tascs-scidac.org/collaborators/esg-cet</link>        <description>Seeking opportunities to utilize component concepts and tools in the Earth System Grid's climate simulation data grid environment.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>SciDAC CET/Institute</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cifts">        <title>CIFTS: Coordinated Infrastructure for Fault Tolerant Systems</title>        <link>http://tascs-scidac.org/collaborators/cifts</link>        <description>Providing the connections to allow the development of component-based applications capable of taking an active role in responding to faults in HPC systems.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-10-21T12:36:20Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/swim">        <title>SWIM: Center for Simulation of Radio-Frequency Wave Interactions with Magnetohydrodynamics</title>        <link>http://tascs-scidac.org/collaborators/swim</link>        <description>A component-based approach to integrated plasma simulation.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-10-21T12:36:58Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/apdec">        <title>APDEC: Applied Partial Differential Equations Center</title>        <link>http://tascs-scidac.org/collaborators/apdec</link>        <description>This collaboration seeks to integrate Chombo, APDEC block-structured adaptive mesh package, into the CFRFS toolkit for reacting flow simulations. This collaboration involves wrapping a part of Chombo into a CCA component so that it can function as a part of the CFRFS Toolkit. 
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>SciDAC CET/Institute</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cfrfs">        <title>CFRFS: Computational Facility for Reacting Flow Science </title>        <link>http://tascs-scidac.org/collaborators/cfrfs</link>        <description>CFRFS seeks to develop a component-based toolkit to enable reacting flow simulations. TASCS contributes in terms of software design and load-balancing</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cism">        <title>CISM: NSF Center for Integrated Space Weather Modeling</title>        <link>http://tascs-scidac.org/collaborators/cism</link>        <description>Introduce CCA technology into space weather simulation components, with parallel coupling components</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/distcomp">        <title>DistComp: Distributed CCA Components and Grid Services for Scientific Computing</title>        <link>http://tascs-scidac.org/collaborators/distcomp</link>        <description>This collaboration effort aims to provide support for advanced language constructs in component-based HPC application environments.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/facets">        <title>FACETS: the Framework Application for Core-Edge Transport Simulation</title>        <link>http://tascs-scidac.org/collaborators/facets</link>        <description>Promote CCA technologies within FACETS</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2009-03-10T00:16:54Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/gwaccamole">        <title>GWACCAMOLE: GroundWAter CCA MOdeling Library and Extensions</title>        <link>http://tascs-scidac.org/collaborators/gwaccamole</link>        <description>The goal of this collaboration is to create a framework for hybrid subsurface simulations that mix different physical models to create simulations that model subsurface behavior across scales.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2009-05-03T20:09:18Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/peri">        <title>PERI: Performance Engineering Research Institute</title>        <link>http://tascs-scidac.org/collaborators/peri</link>        <description>Design and implementation of performance measurment, analysis, and tuning infrastructure for support of Computational Quality of Service in parallel component applications. </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>SciDAC CET/Institute</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/rose">        <title>ROSE</title>        <link>http://tascs-scidac.org/collaborators/rose</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cca-forum">        <title>CCA Forum</title>        <link>http://tascs-scidac.org/collaborators/cca-forum</link>        <description>A community organization for the development and promotion of the Common Component Architecture</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/co-op">        <title>Co-Op: Cooperative Programming</title>        <link>http://tascs-scidac.org/collaborators/co-op</link>        <description>Provide distributed computing infrastructure for MPMD framework.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>DOE (non-SciDAC)</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cscads">        <title>CScADS: Center for Scalable Application Development Software </title>        <link>http://tascs-scidac.org/collaborators/cscads</link>        <description>Developing software optimization techniques that are applicable to multi-language and component-based applications.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>SciDAC CET/Institute</dc:subject>                    <dc:subject>TASCS Collaboration</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/chapel">        <title>Chapel</title>        <link>http://tascs-scidac.org/collaborators/chapel</link>        <description>Provide a migration path for a new programming language.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2009-01-19T16:09:50Z</dc:date>        <dc:type>Page</dc:type>    </item>
+
+
+
+</rdf:RDF>

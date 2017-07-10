@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/search_rss">
+  <title>TASCS</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 6.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/swim"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cfrfs"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/facets"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/gwaccamole"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/compass"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/qc-sap"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/collaborators/swim">        <title>SWIM: Center for Simulation of Radio-Frequency Wave Interactions with Magnetohydrodynamics</title>        <link>http://tascs-scidac.org/collaborators/swim</link>        <description>A component-based approach to integrated plasma simulation.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>David E. Bernholdt</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-10-21T12:36:58Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cfrfs">        <title>CFRFS: Computational Facility for Reacting Flow Science </title>        <link>http://tascs-scidac.org/collaborators/cfrfs</link>        <description>CFRFS seeks to develop a component-based toolkit to enable reacting flow simulations. TASCS contributes in terms of software design and load-balancing</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/facets">        <title>FACETS: the Framework Application for Core-Edge Transport Simulation</title>        <link>http://tascs-scidac.org/collaborators/facets</link>        <description>Promote CCA technologies within FACETS</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2009-03-10T00:16:54Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/gwaccamole">        <title>GWACCAMOLE: GroundWAter CCA MOdeling Library and Extensions</title>        <link>http://tascs-scidac.org/collaborators/gwaccamole</link>        <description>The goal of this collaboration is to create a framework for hybrid subsurface simulations that mix different physical models to create simulations that model subsurface behavior across scales.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2009-05-03T20:09:18Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/compass">        <title>COMPASS: Community Petascale Project for Accelerator Science and Simulation</title>        <link>http://tascs-scidac.org/collaborators/compass</link>        <description>The focus of TASCS-COMPASS collaboration is the development of high-performance components for accelerator modeling, with initial emphasis on particle tracking, beam optics, and solvers for space charge models. Also, the selection and parameterization of accelerator components motivates TASCS work on computational quality of service (CQoS), a TASCS component technology initiative.
+
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-10-20T19:38:11Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/qc-sap">        <title>QC-SAP: Chemistry Framework using Common Component Architecture</title>        <link>http://tascs-scidac.org/collaborators/qc-sap</link>        <description>Employ the infrastructure of the Common Component Architecture to develop interfaces amongst major quantum chemistry packages, creating a flexible, community-based software development environment. A specific collaboration involves the use of general purpose quality of service infrastructure developed by the CCA forum to increase usability and performance of component-based chemistry applications.
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>SciDAC Application/SAP</dc:subject>                <dc:date>2008-06-01T21:08:27Z</dc:date>        <dc:type>Page</dc:type>    </item>
+
+
+
+</rdf:RDF>

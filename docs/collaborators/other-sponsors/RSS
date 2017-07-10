@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://tascs-scidac.org/collaborators/other-sponsors/RSS">
+  <title>Other Sponsor Collaborators</title>
+  <link>http://tascs-scidac.org</link>
+  
+  <description>
+    
+       
+       
+  </description>
+  
+  
+  
+            <syn:updatePeriod>daily</syn:updatePeriod>
+            <syn:updateFrequency>1</syn:updateFrequency>
+            <syn:updateBase>2007-10-25T17:40:17Z</syn:updateBase>
+        
+  
+  <image rdf:resource="http://tascs-scidac.org/logo.jpg"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cca-forum"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/chapel"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/cism"/>
+        
+        
+            <rdf:li rdf:resource="http://tascs-scidac.org/collaborators/csdms"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://tascs-scidac.org/collaborators/cca-forum">        <title>CCA Forum</title>        <link>http://tascs-scidac.org/collaborators/cca-forum</link>        <description>A community organization for the development and promotion of the Common Component Architecture</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/chapel">        <title>Chapel</title>        <link>http://tascs-scidac.org/collaborators/chapel</link>        <description>Provide a migration path for a new programming language.</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2009-01-19T16:09:50Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/cism">        <title>CISM: NSF Center for Integrated Space Weather Modeling</title>        <link>http://tascs-scidac.org/collaborators/cism</link>        <description>Introduce CCA technology into space weather simulation components, with parallel coupling components</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>nl1</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2008-06-01T21:08:26Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://tascs-scidac.org/collaborators/csdms">        <title>CSDMS: Community Surface Dynamics Modeling System</title>        <link>http://tascs-scidac.org/collaborators/csdms</link>        <description>The CSDMS Project is an NSF-funded international effort that involves modeling the dynamic interface between lithosphere, hydrosphere, cryosphere, and atmosphere. The main goal of the project is to develop a suite of modular numerical models able to simulate the evolution of landscapes and sedimentary basins, on time scales ranging from individual events to many millions of years. This collaboration focuses on CCA tools support and extensions to enable the creation of the suite of CCA components for surface dynamics modeling.
+
+</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>norris</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>TASCS Collaboration</dc:subject>                    <dc:subject>Other Sponsor</dc:subject>                <dc:date>2009-01-21T18:34:28Z</dc:date>        <dc:type>Page</dc:type>    </item>
+
+
+
+
+</rdf:RDF>
